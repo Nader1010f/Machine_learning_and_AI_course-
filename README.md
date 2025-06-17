@@ -1,1 +1,6 @@
-# Machine_learning_and_AI_course-
+# Machine_learning_and_AI_course
+این ریپازیتوری برای یادگیری اصول ماشین لرنینگ طراحی شده است.
+
+## بخش‌ها
+- `docs/` - توضیحات درس‌ها
+- `notebooks/` - مثالهای عملی
